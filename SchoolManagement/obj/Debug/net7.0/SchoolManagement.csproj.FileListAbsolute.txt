@@ -1,0 +1,14 @@
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/bin/Debug/net7.0/SchoolManagement
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/bin/Debug/net7.0/SchoolManagement.deps.json
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/bin/Debug/net7.0/SchoolManagement.runtimeconfig.json
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/bin/Debug/net7.0/SchoolManagement.dll
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/bin/Debug/net7.0/SchoolManagement.pdb
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.AssemblyInfoInputs.cache
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.AssemblyInfo.cs
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.csproj.CoreCompileInputs.cache
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.dll
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/refint/SchoolManagement.dll
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.pdb
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/SchoolManagement.genruntimeconfig.cache
+/Users/oussamaramich/Documents/SCHOOL/SchoolManagement/obj/Debug/net7.0/ref/SchoolManagement.dll
